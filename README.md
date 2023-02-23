@@ -10,6 +10,3 @@ To use this database, you will need MySQL installed on your computer. You can cr
 
 The SQL scripts include commands for creating, inserting, updating, and deleting data from the database. You can use these commands to interact with the database and perform CRUD operations.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
