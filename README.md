@@ -1,16 +1,15 @@
-Library Database
-This is a simple database for a library, containing tables for books, customers, and transactions. It was created using MySQL Workbench and includes CRUD operations for data manipulation.
+# Library Database
 
-Installation
-To install this database, simply execute the SQL scripts provided in the "sql" folder. Make sure you have a MySQL server installed and running.
+This repository contains the code and scripts for a simple library database, including an EER diagram, SQL scripts, and CRUD commands for interacting with the database.
 
-<h1>Usage</h1>
-Once the database is installed, you can use the CRUD operations to add, delete, or modify data in the database. The SQL scripts are organized by table and operation, so it should be easy to find the command you need.
+## Installation
 
-Contributors
-This database was created by [your name here]. If you have any questions or feedback, please feel free to reach out.
+To use this database, you will need MySQL installed on your computer. You can create the database by executing the SQL scripts provided in the repository.
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+## Usage
 
-You can customize this README file to include any additional information you want to share about your project, such as features, limitations, or dependencies. Make sure to keep it concise and clear, and use markdown formatting to make it more readable.
+The SQL scripts include commands for creating, inserting, updating, and deleting data from the database. You can use these commands to interact with the database and perform CRUD operations.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
